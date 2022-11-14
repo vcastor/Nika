@@ -1,0 +1,15 @@
+
+           Number of atoms:   2
+ Number of basis functions:   4
+
+ Coordinates of the system in bohr:
+  H   0.00000000  0.00000000  0.00000000
+  H   0.00000000  0.00000000  0.74080000
+
+        Calculation at the step:           14
+    with a threshold: 0.494-323    for dencity matrix
+                                 ATOMIC UNITS
+             N-N Coulomb Energy:   1.34989201
+             Electronic Energy:   -2.26772605
+             TOTAL ENERGY:        -0.91783404
+
